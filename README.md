@@ -1,4 +1,4 @@
-# Projeto de cadastro de vendas e cálculo de comissões
+# Dashboard de vendas e vendedores
 
 Esse projeto consiste em um dashboard de vendas e vendedores. Suas funcionalidades são:
 
