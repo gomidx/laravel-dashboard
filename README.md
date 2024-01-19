@@ -32,7 +32,7 @@ cd dashboard && sudo make run-web
 
 Agora é só esperar os containers serem iniciados e pronto! Será possível acessar o dashboard através da URL http://localhost:8001.
 
-## ⚙️ Testes
+### ⚙️ Testes
 
 Para executar os testes da API, execute os seguintes comandos na raíz do projeto:
 
