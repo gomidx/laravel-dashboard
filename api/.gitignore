@@ -1,0 +1,3 @@
+.phpunit.result.cache
+/mysql
+src/vendor
