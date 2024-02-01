@@ -63,7 +63,6 @@ class UserController extends Controller
 
             return response()->json($data['response'], $data['code']);
         } catch (\Throwable $th) {
-            dd($th->getMessage());
             $data = $this->serverError();
 
             return response()->json($data['response'], $data['code']);
